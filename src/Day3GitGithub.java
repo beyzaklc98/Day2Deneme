@@ -7,5 +7,7 @@ public class Day3GitGithub {
         System.out.println("3. Gun 3. Branch Deneme");
         System.out.println("3. Gun 4. Master Deneme");
         System.out.println("3. Gun 5. Master Deneme");
+
+        System.out.println("deneme");
     }
 }
